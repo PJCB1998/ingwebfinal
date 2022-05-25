@@ -7,6 +7,7 @@ import {getHorses} from './actions/horses'
 import Form from "./components/Form/Form";
 import Horses from "./components/Horses/Horses";
 import useStyles from "./styles";
+import './index.css'
 
 
 const App = () => {
